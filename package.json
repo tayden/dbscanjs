@@ -1,0 +1,12 @@
+{
+  "name": "dbscanjs",
+  "version": "1.0.0",
+  "description": "Javascript implementation of the DBSCAN algorithm",
+  "main": "index.js",
+  "repository": "www.github.com/tayden/dbscanjs",
+  "author": "Taylor Denouden",
+  "license": "MIT",
+  "dependencies": {
+    "prettier": "^1.11.1"
+  }
+}
