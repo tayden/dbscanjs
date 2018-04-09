@@ -2,6 +2,10 @@
 
 This library implements a minimal DBSCAN algorithm in javascript.
 
+## Installation
+
+`npm install dbscanjs`
+
 ## Usage
 
 This library exposes a single function `dbscan`.
@@ -18,7 +22,7 @@ This library exposes a single function `dbscan`.
 ## Example
 
 ```javascript
-const dbscan = require("dbscan");
+const dbscan = require("dbscanjs");
 
 const data = [
   [0, 1],

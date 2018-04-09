@@ -6,7 +6,7 @@
   "repository": "www.github.com/tayden/dbscanjs",
   "author": "Taylor Denouden",
   "license": "MIT",
-  "dependencies": {
+  "devDependencies": {
     "prettier": "^1.11.1"
   }
 }
